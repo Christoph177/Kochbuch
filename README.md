@@ -3,8 +3,8 @@
 ## Inhaltsverzeichnis
 
 ### Vorspeisen
-- [Rezeptname 1](Vorspeisen/Müsli.md)
-- [Rezeptname 2](Vorspeisen/DattelCurryDip.md)
+- [Müsli](Müsli.md)
+- [Dattel Curry Dip](DattelCurryDip.md)
 
 ### Hauptgerichte
-- [Rezeptname 3](Hauptgerichte/Pizza.md)
+- [Pizza](Pizza.md)
